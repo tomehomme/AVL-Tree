@@ -1,2 +1,2 @@
 # Arithmetic-Expression
-Rewrites arithmetic expressions using an AVL tree
+Implements an AVL tree using c++
